@@ -1,0 +1,12 @@
+.nav-tab {
+  background: url(./assets/tabs.png) repeat-x #102235; 
+  .MuiTab-root {
+    width: 25%;
+    color: #fff;
+    text-transform: capitalize;
+    font-weight: 400;
+    &.Mui-selected {
+      color: #fff;
+    }
+  }
+}
